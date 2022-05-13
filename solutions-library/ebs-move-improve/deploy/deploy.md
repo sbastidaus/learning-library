@@ -19,7 +19,7 @@ Watch this short video to preview how to deploy your Oracle E-Business Suite clo
 
 * Tenancy Admin User
 * Tenancy Admin Password
-* Lab 1 for preparing your tenancy completed with your IDCS information documented in your key-data.txt file.
+* Lab 1 for preparing your tenancy completed with your IAM with Identity Domains information documented in your key-data.txt file.
     * `Cloud_Manager_Admin_Username`
     * `Cloud_Manager_Admin_Password`
     * `Client_Tenant`
@@ -260,7 +260,11 @@ You may now proceed to the next lab.
 
 ## Acknowledgements
 
-* **Author:** Quintin Hill, Cloud Engineering
+* **Authors:** 
+  * Quintin Hill, Cloud Engineering
+  * Vijay Kumar Vudari Satyanarayana, Principal Cloud Architect
+  * Danish Ansari, Principal Cloud Architect
+
 * **Contributors:** 
   - Santiago Bastidas, Product Management Director
   - William Masdon, Cloud Engineering

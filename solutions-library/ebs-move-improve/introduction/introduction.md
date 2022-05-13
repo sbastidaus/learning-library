@@ -65,17 +65,17 @@ You will need the following in order to complete this workshop:
 * A modern browser
 * A secure remote login (Secure Shell, or SSH) utility
         - Such as PuTTY - downloaded from [here](https://www.ssh.com/ssh/putty/download)
-* A secure copy program
+* A secure copy program (If using Windows)
         - Such as WinSCP - downloaded from [here](https://winscp.net/eng/index.php)
 * Knowledge of basic UNIX commands
 
 ## Setup
 
-In this section, you will prepare your workstation. In addition the following zip file provides a key-data.txt to store all information that you will need to refer back to. We recommend you use this file to store your variables while going through the lab.
+In this section, you will prepare your workstation. In addition the following zip file provides a ``key-data.txt`` to store all information that you will need to refer back to. We recommend you use this file to store your variables while going through the lab.
 
 Use [this](https://objectstorage.us-ashburn-1.oraclecloud.com/p/vrY7zeM7llOTsL5UyR9u5jQzp8JZzDiir7YdPDyc81zdG8psYU3bWM4LuwAemOUJ/n/orasenatdpltoci03/b/EBS-HOL-Files/o/ebs-hol.zip) link to download the files.
 
-Additionally there is a terraform configuration included if you would do this lab using resource manager. This lab uses marketplace stack, but if you decide to use resource manager the terraform file is available.
+Additionally there is a terraform configuration included if you would like do this lab using resource manager. This lab uses marketplace stack, but if you decide to use resource manager the terraform file is available.
 
 Proceed to the appropriate section, depending on your workstation operating system:
 
@@ -139,8 +139,13 @@ The following terms are commonly employed in Oracle E-Business Suite cloud opera
 
 ## Acknowledgements
 
-* **Author:** Quintin Hill, Cloud Engineering
-* **Contributors:** Santiago Bastidas, Product Management Director
-* **Last Updated By/Date:** Quintin Hill, Cloud Engineering, May 2021
+* **Authors:** 
+  * Quintin Hill, Cloud Engineering
+  * Vijay Kumar Vudari Satyanarayana, Principal Cloud Architect
+  * Danish Ansari, Principal Cloud Architect
+* **Contributors:** 
+  * Santiago Bastidas, Product Management Director
+  * Chris Wegenek, Cloud Engineering
+* **Last Updated By/Date:** Chris Wegenek, Cloud Engineering, March 2022
 
 
